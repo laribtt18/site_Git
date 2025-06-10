@@ -15,7 +15,7 @@ Este é um projeto educativo de site em HTML com interações em CSS e JavaScrip
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/meu-site.git
+git clone https://laribtt18.github.io/site_Git/
 ```
 
 2. Acesse a pasta e publique:
@@ -32,7 +32,7 @@ git push origin main
 
 ### 🌐 Acesse:
 ```
-https://seu-usuario.github.io/meu-site/
+https://laribtt18.github.io/site_Git//
 ```
 
 ---

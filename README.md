@@ -1,40 +1,34 @@
-# Meu Site 📘
+# Projeto HTML - Módulo 1
 
-Este é um projeto educativo de site em HTML com interações em CSS e JavaScript, contendo informações sobre:
-- A história da web
-- Clients x Servers
-- Hospedagem
-- Linguagens de programação
+Este é o **meu primeiro projeto** desenvolvido durante o **curso de HTML - Módulo 1**.  
+A proposta foi aplicar os **conhecimentos iniciais** em HTML aprendidos até o momento.
 
-## 💻 Tecnologias utilizadas
-- HTML5
-- CSS3 (estilização moderna e responsiva)
-- JavaScript (modo escuro, rolagem suave)
-
-## 🚀 Como publicar no GitHub Pages
-
-1. Clone o repositório:
-```bash
-git clone https://laribtt18.github.io/site_Git/
-```
-
-2. Acesse a pasta e publique:
-```bash
-cd meu-site
-git add .
-git commit -m "Deploy inicial"
-git push origin main
-```
-
-3. Vá em **Settings > Pages** e publique a partir da branch `main`, pasta `/root`.
+🔗 **Veja o projeto publicado aqui:**  
+[https://laribtt18.github.io/Projeto-HTML-Modulo1/](https://laribtt18.github.io/Projeto-HTML-Modulo1/)
 
 ---
 
-### 🌐 Acesse:
-```
-https://laribtt18.github.io/site_Git//
-```
+## 🧠 Conhecimentos aplicados
+
+- Estrutura básica de um documento HTML
+- Uso de tags como:
+  - `<html>`, `<head>`, `<body>`
+  - `<h1>` a `<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`, entre outras
+- Inserção de imagens e links
+- Criação de listas ordenadas e não ordenadas
+- Organização de conteúdo em uma página web
 
 ---
 
+## 🛠️ Tecnologias usadas
+
+- **HTML5**
+- (pouco uso de CSS e JavaScript neste módulo)
+
+---
+
+## 📌 Observações
+
+Este projeto faz parte da minha jornada de aprendizado em desenvolvimento web.  
+Mais projetos virão conforme avanço no curso! 🚀
 Feito com ❤️ para fins educativos.
